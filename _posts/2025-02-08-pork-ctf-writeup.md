@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Pork ctf writeup"
-date:   2025-01-17 19:29:43 +0200
+date:   2025-02-08 19:00:00 +0200
 categories: ctf writeup android pwn
 ---
 
