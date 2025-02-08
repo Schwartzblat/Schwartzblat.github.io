@@ -4,5 +4,8 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+Hi, I am Alon Schwartzblat.
+
+I am 20 years old.
+
+I like to research cool stuff, mostly web & android but maybe other types of research will come later :)
